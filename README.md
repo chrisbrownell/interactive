@@ -5,4 +5,4 @@ Labs
 
 Assignments
 
-1. [Assignment 1] (//google.com)
+1. [Assignment 1](//google.com)
