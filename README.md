@@ -1,8 +1,7 @@
 # Interactive Devices
-Labs
 
+## Labs
 1. [Lab 1](//google.com)
 
-Assignments
-
+## Assignments
 1. [Assignment 1](//google.com)
