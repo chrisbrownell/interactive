@@ -6,4 +6,4 @@
 
 ## Lab Prep
 1. Lab Prep 1 - No submittal needed
-2. Lab Prep 2 - Due 9/6
+2. [Lab Prep 2 - Submitted 9/6](https://github.com/chrisbrownell/IDD-Fa18-Lab2-Prep/)
