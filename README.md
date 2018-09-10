@@ -2,8 +2,8 @@
 
 ## Labs
 1. [Lab 1 - submitted 9/4](https://github.com/chrisbrownell/IDD-Fa18-Lab1-ckb77)
-2. Lab 2 - due 9/11
+2. [Lab 2 - submitted 9/10](https://github.com/chrisbrownell/IDD-Fa18-Lab2/blob/master/README.md)
 
 ## Lab Prep
 1. Lab Prep 1 - No submittal needed
-2. [Lab Prep 2 - Submitted 9/6](https://github.com/chrisbrownell/IDD-Fa18-Lab2-Prep/)
+2. [Lab Prep 2 - submitted 9/6](https://github.com/chrisbrownell/IDD-Fa18-Lab2-Prep/)
