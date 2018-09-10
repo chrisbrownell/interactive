@@ -5,5 +5,5 @@
 2. [Lab 2 - submitted 9/11](https://github.com/chrisbrownell/IDD-Fa18-Lab2/blob/master/README.md)
 
 ## Lab Prep
-1. Lab Prep 1 - No submittal needed
+1. Lab Prep 1 - no submittal needed
 2. [Lab Prep 2 - submitted 9/6](https://github.com/chrisbrownell/IDD-Fa18-Lab2-Prep/)
