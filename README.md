@@ -7,3 +7,4 @@
 ## Lab Prep
 1. Lab Prep 1 - no submittal needed
 2. [Lab Prep 2 - submitted 9/6](https://github.com/chrisbrownell/IDD-Fa18-Lab2-Prep/)
+3. [Lab 3 Prep - submitted 9/13](https://github.com/chrisbrownell/IDD-Fa18-Lab3-Prep/blob/master/README.md)
