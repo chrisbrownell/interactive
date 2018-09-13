@@ -2,7 +2,8 @@
 
 ## Labs
 1. [Lab 1 - Blink](https://github.com/chrisbrownell/IDD-Fa18-Lab1-ckb77) submitted 9/4
-2. [Lab 2 - Make A Digital Timer](https://github.com/chrisbrownell/IDD-Fa18-Lab2-ckb77/blob/master/README.md) due 9/11
+2. [Lab 2 - Make A Digital Timer](https://github.com/chrisbrownell/IDD-Fa18-Lab2-ckb77/blob/master/README.md) submitted 9/11
+3. Lab 3 - Data Logger due 9/18
 
 ## Lab Prep
 1. Lab Prep 1 - no submittal needed
