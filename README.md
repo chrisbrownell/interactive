@@ -6,6 +6,7 @@
 3. [Lab 3:  Data Logger](https://github.com/chrisbrownell/IDD-Fa18-Lab3-ckb77/blob/master/README.md) - submitted 9/18
 4. [Lab 4: Paper Puppets](https://github.com/chrisbrownell/IDD-Fa18-Lab4-ckb77/blob/master/README.md) - submitted 10/2
 5. [Lab 5: Useless Box](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/README.md) - submitted 10/10
+6. [Lab 6: Chatbot](https://github.com/chrisbrownell/IDD-Fa18-Lab6-ckb77/blob/master/README.md) - submitted 10/16
 
 ## Lab Prep
 1. Lab 1 Prep - no submittal needed
