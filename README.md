@@ -16,3 +16,6 @@
 4. [Lab 4 Prep](https://github.com/chrisbrownell/IDD-Fa18-Lab4-Prep/blob/master/README.md) - submitted 9/20
 5. [Lab 5 Prep](https://github.com/chrisbrownell/IDD-Fa18-Lab5-Prep/blob/master/README.md) - submitted 10/2
 6. Lab 6 Prep - no submittal needed
+
+## Final Project
+Interactive Battleship with Kevin Oh. [Project Wiki](https://github.com/contactkoh/Interactive_Battleship/wiki/)
